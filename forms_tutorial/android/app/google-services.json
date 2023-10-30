@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846047103358",
+    "project_id": "tps-forms",
+    "storage_bucket": "tps-forms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846047103358:android:c102bd67494a8a20f64b2f",
+        "android_client_info": {
+          "package_name": "com.example.forms_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnfCpuobOr1luPPMbfV2Y5mxsMj6g4lt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
